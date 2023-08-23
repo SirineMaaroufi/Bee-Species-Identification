@@ -14,5 +14,5 @@ Advance your skills as you delve into more intricate image manipulation and clas
 
 Embark on a deep learning adventure by building and evaluating a refined model for bee species identification. Leverage renowned Python libraries and pre-trained models to achieve accurate outcomes.
 
-Join us on this captivating exploration of image classification and computer vision, contributing to advancements in bee species identification.
+Join me on this captivating exploration of image classification and computer vision, contributing to advancements in bee species identification.
 
